@@ -26,7 +26,7 @@ case $operacja in
         ;;
     3)
         wynik=$((liczba1 * liczba2))
-        echoplik "Mnożenie: $wynik"
+        echo "Mnożenie: $wynik"
         ;;
     4)
         if [ "$liczba2" -eq 0 ]; then

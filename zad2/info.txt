@@ -1,0 +1,2 @@
+/home/jakun/skrypty/zad2/test/plik1
+/home/jakun/skrypty/zad2/test/plik2

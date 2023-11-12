@@ -1,0 +1,4 @@
+/home/jakun/skrypty/zad3/szkola/technikum/tu
+/home/jakun/skrypty/zad3/szkola/technikum/tr
+/home/jakun/skrypty/zad3/szkola/liceum/matfiz
+/home/jakun/skrypty/zad3/szkola/liceum/biolchem
